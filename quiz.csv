@@ -1,0 +1,7 @@
+question,optionA,optionB,optionC,optionD,answer
+p5.js中的設定函式是什麼?,setup(),draw(),preload(),mousePressed(),A
+哪一個函式會不斷重複執行?,setup(),draw(),preload(),keyTyped(),B
+畫布的背景顏色通常在哪裡設定?,draw(),setup(),windowResized(),background(),D
+在p5.js中，(0,0)座標在哪裡?,右下角,中心,左上角,右上角,C
+如何讀取滑鼠的X座標?,mouse.x,mouseX,getX(),positionX(),B
+若要畫一個圓形，應使用哪個函式?,rect(),circle(),line(),triangle(),B
